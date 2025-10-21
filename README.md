@@ -22,13 +22,13 @@ Este manual é um **guia rápido** para que você, estudante da UNIFAP, conheça
 4. [Base Legal e Documentos Norteadores](docs/04-base-legal.md)
 5. [Direitos dos(as) Discentes](docs/05-direitos-discentes.md)
 6. [Deveres dos(as) Discentes](docs/06-deveres-discentes.md)
-7. [Medidas Disciplinares e Registro](docs/07-medidas-disciplinares.md)
-8. [Classificação das Infrações](docs/08-classificacao-infracoes.md)
-9. [Processo Disciplinar — Passo a Passo](docs/09-processo-disciplinar.md)
-10. [Orientações Práticas para Estudantes](docs/10-orientacoes-praticas.md)
-11. [Perguntas Frequentes (FAQ)](docs/11-faq.md)
-12. [Glossário Rápido](docs/12-glossario.md)
-13. [Canais, Proteção e Acolhimento](docs/13-canais-apoio.md)
+7. [Medidas Disciplinares e Registro](docs/07-medidas-disciplinares-e-registro.md)
+8. [Classificação das Infrações](docs/08-classificação-das-infrações.md)
+9. [Processo Disciplinar — Passo a Passo](docs/09-processo-disciplinar--passo-a-passo.md)
+10. [Orientações Práticas para Estudantes](docs/10-orientações-práticas-para-estudantes.md)
+11. [Perguntas Frequentes (FAQ)](docs/11-perguntas-frequentes-faq.md)
+12. [Glossário Rápido](docs/12-glossário-rápido.md)
+13. [Canais, Proteção e Acolhimento](docs/13-canais-proteção-e-acolhimento.md)
 14. [Anexos Normativos](docs/14-anexos-normativos.md)
 
 ---
@@ -42,8 +42,8 @@ Este manual é um **guia rápido** para que você, estudante da UNIFAP, conheça
 ## 🚀 Acesso Rápido
 
 - **📧 Contato UDD:** udd@unifap.br
-- **📱 Versão Online:** [Notion](https://www.notion.so/29319266578681dba46af0b254745a7d)
-- **📄 PDF Completo:** [Download](releases/latest)
+- **📱 Versão Online (Notion):** [Acesse aqui](https://www.notion.so/29319266578681dba46af0b254745a7d)
+- **📄 PDF Completo:** [Download](releases/Manual_UDD_UNIFAP_v1.0.pdf)
 
 ---
 
